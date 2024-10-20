@@ -1,0 +1,7 @@
+CREATE DATABASE school;
+USE school;
+
+CREATE TABLE marklist (
+    studentname VARCHAR(100),
+    marks INT
+);
